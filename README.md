@@ -3,10 +3,8 @@
   <a href="https://github.com/Yshmany">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yshmany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-  ## <p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yshmany.Yshmany) </p>
- 
+    </div>
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
