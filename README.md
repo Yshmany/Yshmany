@@ -6,10 +6,6 @@
 </div>
  
   ## <p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yshmany.Yshmany) </p>
-  
-  ## <p align="center"> Find me: </p>
-
-[<p align="center"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="50"></p>](http://t.me/DarkzinSSH)
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
